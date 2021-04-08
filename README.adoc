@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/spring-guides/gs-rest-service-cors)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/spring-guides/gs-rest-service-cors)
+
 :spring_version: current
 :spring_boot_version: 2.4.3
 :jackson: https://wiki.fasterxml.com/JacksonHome
